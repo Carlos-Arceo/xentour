@@ -1,0 +1,1 @@
+import"./chunk-2VMXMS7J.js";var o=[{path:"",loadComponent:()=>import("./chunk-HYAQXQOU.js").then(e=>e.ServiceListComponent)},{path:"service/:id",loadComponent:()=>import("./chunk-FPQXWC3L.js").then(e=>e.ServiceDetailComponent)}];export{o as default};
